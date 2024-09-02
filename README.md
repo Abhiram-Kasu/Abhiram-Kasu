@@ -2,7 +2,7 @@
 Abhiram Kasu
 </h1>
 <h3 align="center"> 
-.NET Developer
+Computer Science @ CU Boulder
 </h3>
 
 
@@ -13,7 +13,9 @@ Abhiram Kasu
 
 | Languages | Tools |
 |:---:|:---:|
-| `C#` | WPF, MAUI, ASP.NET Core, WinUi3, Blazor |
+| `C#` | WPF, MAUI, ASP.NET Core, WinUi3, Blazor, Avalonia, Uno |
+|`C++`| raylib, win32 api |
+|`golang` | gin | 
 | `Java` | Spring |
 | `Dart` | Flutter |
 | `sql` | Postgres, SQLite |
@@ -32,9 +34,9 @@ Abhiram Kasu
 
 
 <p align="center">
-<a  href="https://github.com/SoapDispenser">
+<a  href="https://github.com/abhiram-kasu">
 
-  <image  src="https://github-readme-stats.vercel.app/api/top-langs/?username=soapdispenser&layout=compact&theme=dark"/>
+  <image  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram-kasu&layout=compact&theme=dark"/>
 </a>
   
 </p>
