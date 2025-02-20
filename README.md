@@ -13,10 +13,10 @@ Computer Science @ CU Boulder
 
 | Languages | Tools |
 |:---:|:---:|
-| `C#` | WPF, MAUI, ASP.NET Core, WinUi3, Blazor, Avalonia, Uno |
-|`C++`| raylib, win32 api |
+| `C#` | WPF, MAUI, ASP.NET Core, WinUi3, Blazor, Avalonia, Uno Platform |
+|`C++`| raylib, WebGPU |
 |`golang` | gin | 
-| `Java` | Spring |
+| `Java` | Spring Boot, Seleium|
 | `Dart` | Flutter |
 | `sql` | Postgres, SQLite |
 | `Javascript` / `Typescript` | React, Vue |
