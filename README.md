@@ -1,8 +1,8 @@
 <h1 align="center">
-Abhiram Kasu
+Abhiram Reddy Kasu
 </h1>
 <h3 align="center"> 
-Computer Science @ CU Boulder
+Computer Science @ CU Boulder | Class of 2027
 </h3>
 
 
